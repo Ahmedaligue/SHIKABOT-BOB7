@@ -7,18 +7,18 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "994405118312"
+global.botnumber = "218930304217"
 
 global.owner = [
-  ['201005603546', '♕𝙎𝙃𝙄𝙆𝘼🐥♕', true],
+  ['212658594530', '♕𝙎𝙃𝙄𝙆𝘼🐥♕', true],
 
-  ['201005603546','♕𝙎𝙃𝙄𝙆𝘼🐥♕', true],
+  ['201005603546','♕𝙎𝙃𝙄𝙆𝘼🐥♕', false],
   ['201005603546'],
   ['201005603546']
 ];
 
-global.suittag = ['201005603546'];
-global.prems = ['201005603546'];
+global.suittag = ['212658594530'];
+global.prems = ['212658594530'];
 
 global.packname = '𝐒𝐓𝐎𝐑𝐌『🃏』𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒';
 global.author = '♕𝙎𝙃𝙄𝙆𝘼🐥♕';
@@ -47,12 +47,12 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\n♕𝙎𝙃𝙄𝙆𝘼🐥♕`;
 global.gt = 'BOBIZA';
 global.mysticbot = '♕𝙎𝙃𝙄𝙆𝘼🐥♕';
-global.md = 'https://www.instagram.com/shika17sm?igsh=MTM2YTJ5Ynh6dTUwcA==';
-global.mysticbot = 'https://www.instagram.com/shika17sm?igsh=MTM2YTJ5Ynh6dTUwcA==';
+global.md = 'https://www.instagram.com/irin_yeger1?igsh=OGQ5ZDc2ODk2ZA==';
+global.mysticbot = 'https://www.instagram.com/irin_yeger1?igsh=OGQ5ZDc2ODk2ZA==';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
 global.waitttt = '*[ ⏳ ] LOADING...*';
-global.nomorown = '201005603546';
+global.nomorown = '212658594530';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
